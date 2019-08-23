@@ -1,6 +1,6 @@
 # Scrolller
 
-A new Flutter application for Scrolller. [https://www.scrolller.com/](https://www.scrolller.com/)
+You get a bunch of random pictures and gifs. It's pretty awesome. [https://www.scrolller.com/](https://www.scrolller.com/)
 
 ## Getting Started
 

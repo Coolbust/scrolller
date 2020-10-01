@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
         // primarySwatch: Colors.blue,
+        //time pass code 
       ),
       home: MyHomePage(title: 'Scrolller'),
       debugShowCheckedModeBanner: false,
